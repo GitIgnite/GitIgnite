@@ -8,9 +8,9 @@ I am passionate about development. I devote some of my free time to learning new
 
 ### - I am 31 years old Java and Angular developer
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitignite&show_icons=true&locale=en&layout=compact" alt="gitignite" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitignite&show_icons=true&locale=en&layout=compact" alt="gitignite" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitignite&" alt="gitignite" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitignite&" alt="gitignite" /></p>
 
 ### Main programming language :
 - Java
@@ -24,8 +24,6 @@ I am passionate about development. I devote some of my free time to learning new
 - 💲 Crypto
   
 
-- 📫 How to reach me **ravet.florent@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ignite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ignite" height="30" width="40" /></a>
@@ -34,7 +32,9 @@ I am passionate about development. I devote some of my free time to learning new
 
 # Link 💬 :
 🔗 https://linktr.ee/florent_ravet
+- 📫 How to reach me **ravet.florent@gmail.com**
 
+  
 <h3>I like to use</h3>
 <p>
   <img src="https://komarev.com/ghpvc/?username=gitignite&label=Profile%20views&color=0e75b6&style=flat" alt="gitignite" /> 
