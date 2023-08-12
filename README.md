@@ -8,6 +8,10 @@ I am passionate about development. I devote some of my free time to learning new
 
 ### - I am 31 years old Java and Angular developer
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitignite&show_icons=true&locale=en&layout=compact" alt="gitignite" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitignite&" alt="gitignite" /></p>
+
 ### Main programming language :
 - Java
 - Angular
@@ -19,11 +23,6 @@ I am passionate about development. I devote some of my free time to learning new
 - 🖥 Web Development
 - 💲 Crypto
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitignite&label=Profile%20views&color=0e75b6&style=flat" alt="gitignite" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitignite" alt="gitignite" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **ravet.florent@gmail.com**
 
@@ -33,24 +32,12 @@ I am passionate about development. I devote some of my free time to learning new
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/florent-ravet-a5917497/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/florent-ravet-a5917497/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitignite&show_icons=true&locale=en&layout=compact" alt="gitignite" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitignite&show_icons=true&locale=en" alt="gitignite" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitignite&" alt="gitignite" /></p>
-
-
-
-
-
-
 # Link 💬 :
 🔗 https://linktr.ee/florent_ravet
 
 <h3>I like to use</h3>
 <p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitignite&label=Profile%20views&color=0e75b6&style=flat" alt="gitignite" /> </p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
